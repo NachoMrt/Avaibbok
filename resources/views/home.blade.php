@@ -79,6 +79,7 @@
                                         <input type="number" name="guest" class="ipt" id="tope" min="0" /><br/>
                                         <button type="submit" class="ipt" > GUARDAR </button>
                                     </form>
+                                        <p> hujkjkjkkjkjkj </p>
                                 </div>
                                 <div class="dv2">
                                     <h3> ACTUALIZAR ALOJAMIENTO ( PUT ) </h3>
@@ -109,6 +110,11 @@
                 </div>
             </div>
         @endsection
+
+        <footer>
+            <h1> Este es nuestro footerrrr </h1>
+            <p> Lorem ipsum dolor sit amet consectetur. </p>
+        </footer>
 
 </body>
 </html>
